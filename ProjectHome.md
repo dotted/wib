@@ -1,0 +1,1 @@
+An IRC bot primarily written for WoWWiki's IRC channel on freenode.
